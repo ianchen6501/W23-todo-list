@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/W23-todo-list/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/W23-todo-list/static/js/main.aa4579e4.chunk.js",
+    "main.js.map": "/W23-todo-list/static/js/main.aa4579e4.chunk.js.map",
+    "runtime-main.js": "/W23-todo-list/static/js/runtime-main.2e8b8c01.js",
+    "runtime-main.js.map": "/W23-todo-list/static/js/runtime-main.2e8b8c01.js.map",
+    "static/js/2.7845f31b.chunk.js": "/W23-todo-list/static/js/2.7845f31b.chunk.js",
+    "static/js/2.7845f31b.chunk.js.map": "/W23-todo-list/static/js/2.7845f31b.chunk.js.map",
+    "static/js/3.c18ef249.chunk.js": "/W23-todo-list/static/js/3.c18ef249.chunk.js",
+    "static/js/3.c18ef249.chunk.js.map": "/W23-todo-list/static/js/3.c18ef249.chunk.js.map",
+    "index.html": "/W23-todo-list/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/W23-todo-list/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7845f31b.chunk.js.LICENSE.txt": "/W23-todo-list/static/js/2.7845f31b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e8b8c01.js",
+    "static/js/2.7845f31b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.aa4579e4.chunk.js"
+  ]
+}
